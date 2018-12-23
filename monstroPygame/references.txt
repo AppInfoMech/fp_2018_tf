@@ -1,0 +1,5 @@
+Referências: discussão com colegas, série "Pygame Programming Tutorial" 
+por "Tech With Tim" no Youtube", documentação Pygame https://www.pygame.org/docs/genindex.html.
+Imagem de fundo retirada de https://www.reddit.com/r/PixelArt/comments/3qhjd1/oc_pixel_space_a_la_ujefferythewalrus/
+Efeitos sonoros retirados de www.freesound.org
+Música de fundo: Macintosh Plus - Floral Shoppe
